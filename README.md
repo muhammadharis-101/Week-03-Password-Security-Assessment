@@ -1,78 +1,62 @@
-# Week 03 – Password Security Assessment
+# 🔐 Week 03 – Password Security Assessment
 
-## Cybersecurity Internship | Practical Training
+### Cybersecurity Internship | Practical Training
 
-### Overview
+## 📌 Overview
 
-This repository documents my Week 3 cybersecurity internship activities, focusing on password security assessment and password recovery techniques.
+This repository contains my Week 3 cybersecurity internship practical work, focused on password security assessment and password recovery techniques.
 
-During this week, I completed two practical modules using different password auditing tools to understand how password-protected files can be assessed and why strong password practices are important.
+Two practical projects were completed using different password auditing tools.
 
-## Project Modules
+## 🛠️ Projects
 
-### Module 1: Password Cracking with John the Ripper
+### 01. Password Cracking with John the Ripper
 
-**Tools Used:**
+**Tools:**
 - John the Ripper (JTR)
 - Johnny GUI
-- PDF Hash Extractor
 
-**Activities Performed:**
-- Installed and configured John the Ripper.
-- Set up the Johnny graphical interface.
-- Extracted the hash from a password-protected PDF.
-- Loaded the extracted hash into Johnny.
-- Performed a password recovery test.
-- Verified the recovered password by opening the protected PDF.
+**Tasks Completed:**
+- PDF hash extraction.
+- Loading password hashes into Johnny.
+- Password recovery testing.
+- Verification of recovered password.
 
-**Learning Outcomes:**
-- Understanding John the Ripper.
-- Working with PDF password hashes.
-- Using graphical password auditing tools.
-- Understanding password recovery processes.
+### 02. Password Cracking with Networkwalks Tools
 
-### Module 2: Password Cracking with Networkwalks Tools
-
-**Tools Used:**
+**Tools:**
 - Networkwalks Hash Calculator
 - Networkwalks Password Cracker
 
-**Activities Performed:**
-- Uploaded a password-protected PDF to the Hash Calculator.
-- Extracted the PDF hash.
-- Copied the complete hash value.
-- Used the Password Cracker to perform dictionary-based testing.
-- Identified the matching password.
-- Verified the result by opening the protected PDF.
+**Tasks Completed:**
+- Extracting PDF password hashes.
+- Understanding PDF hash format.
+- Dictionary-based password testing.
+- Verification of recovered password.
 
-**Learning Outcomes:**
-- Understanding PDF hash extraction.
-- Learning dictionary-based password testing.
-- Exploring browser-based password auditing tools.
-- Understanding the importance of password complexity.
-
-## Key Skills Developed
+## 🎯 Skills & Learning Outcomes
 
 - Password Security Assessment
+- Hash Extraction
 - John the Ripper
 - Johnny GUI
-- Hash Extraction
-- Dictionary-Based Password Testing
-- Security Testing
+- Dictionary-Based Testing
+- Password Auditing
 - Basic Cryptographic Concepts
 
-## Ethical Considerations
+## 📸 Practical Evidence
 
-All activities were performed as part of authorized cybersecurity training in a controlled learning environment using the provided lab files.
+Screenshots of both completed projects are included in this repository as practical evidence.
 
-These techniques should only be used on files and systems for which proper authorization has been obtained.
+## 🔒 Ethical Disclaimer
 
-## Conclusion
+All activities were performed for educational purposes using provided training materials and lab files.
 
-Week 3 provided practical exposure to password security assessment through two different approaches.
+Password auditing techniques should only be performed on files and systems with proper authorization.
 
-Working with John the Ripper and Networkwalks tools helped me understand password recovery techniques, hash extraction, dictionary-based testing, and the importance of creating strong passwords.
+## ✅ Project Status
 
-**Status:** Both project modules completed.
+- Project Module 1: Completed
+- Project Module 2: Completed
 
 **Category:** Cybersecurity | Ethical Hacking | Password Security
